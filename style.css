@@ -1,0 +1,61 @@
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0D0D0D;
+    color: #F5F5F5;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Encabezado */
+h1 {
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+span {
+    color: #22D4FD;
+    border: 1px solid #22D4FD;
+    padding: 10px;
+}
+
+/* Párrafo */
+p {
+    max-width: 600px;
+    margin: 20px auto;
+    font-size: 18px;
+}
+
+/* Botón */
+.boton {
+    display: inline-block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    color: #0D0D0D;
+    background-color: #22D4FD;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.boton:hover {
+    background-color: #1aaac2;
+}
+
+/* Imagen */
+img {
+    max-width: 300px;
+    margin: 20px auto;
+    display: block;
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    margin-top: 40px;
+    padding: 15px;
+    background-color: #1a1a1a;
+    color: #ccc;
+}
